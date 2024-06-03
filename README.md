@@ -1,2 +1,2 @@
 # My-Portfolio
-Personal projects in the way of learning.
+Personal projects made in my way to learning.
